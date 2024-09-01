@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.heroimage{
+   background-image:linear-gradient(rgba(71, 2, 2, 0.8) , rgba(0,0,0,.3)), url('hero.png');
+}
